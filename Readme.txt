@@ -1,0 +1,8 @@
+Configure env vars using dotenv
+
+PORT = 
+GPIOREADTIMEOUT = 
+GPIOPATH = 
+TEMPSENSORID = 
+ENCODING = 
+SERVERNAME = 
